@@ -5,4 +5,3 @@ function printTime() {
   }
   
   setInterval(printTime, 1000); 
-  // Execute printTime every 1000 milliseconds (every second)
