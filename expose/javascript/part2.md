@@ -144,4 +144,4 @@
  
     true because Boolean(2) evaluates to true in JavaScript.
 
-18. The == operator in JavaScript is the equality operator, which performs type coercion before comparing two values, while the === operator is the strict equality operator, which compares both value and type without type coercion. 
+15. The == operator in JavaScript is the equality operator, which performs type coercion before comparing two values, while the === operator is the strict equality operator, which compares both value and type without type coercion. 
