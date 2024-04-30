@@ -145,3 +145,13 @@
     true because Boolean(2) evaluates to true in JavaScript.
 
 15. The == operator in JavaScript is the equality operator, which performs type coercion before comparing two values, while the === operator is the strict equality operator, which compares both value and type without type coercion. 
+16. In file attached seperately
+17. [ 2, 4, 6 ]
+    For every value in the [1,2,3] array, the values are sent to the dosomething method, which mutiplies it by 2. It is the pushed back to the newArr, which is returned after multiplying every value by 2.
+18. In file attached seperately
+19. 
+
+    1
+    4
+    3
+    2
